@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "https": "^1.0.0",
+    "moment": "^2.24.0"
+  }
+}
