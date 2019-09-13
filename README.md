@@ -4,7 +4,7 @@ Simple tool to collect data from Harvest API (getharvest.com) and log it in a fo
 ## Setup and run
 * `yarn | npm i` install dependencies
 * Add `ACCESS_TOKEN` and `ACCOUNT_ID` variables in a `.env` file - this can be generated on your account section in Harvest.
-* node harvest.js
+* `node harvest.js`
 * You will be prompted how many days back the time entries should go, this is always 24 (* days) hours from the current time.
 
 ## Format
